@@ -1,1 +1,1 @@
-# complexidade-algoritmos-ia-2026-2
+# Repositório para guardar os códigos desenvolvidos na aula de Complexidade de Algoritmos do curso de IA - 2026/2
